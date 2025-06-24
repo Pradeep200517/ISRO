@@ -4,7 +4,7 @@
 
 A visually immersive, space-themed web experience that chronicles the legacy, missions, and visionaries of the Indian Space Research Organisation (ISRO). Built using **HTML, CSS, and JavaScript**, the site is responsive, elegant, and informative — designed to educate, inspire, and honor India's journey into the stars.
 
-🌐 **Live Demo:** [Visit Akashpath](https://akshithareddy005.github.io/ISRO/)
+🌐 **Live Demo:** [Visit Akashpath](https://pradeep200517.github.io/ISRO/)
 
 
 ---
